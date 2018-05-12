@@ -23,3 +23,6 @@
 만일 심사에 전체 프로젝트가 필요하시다면
 
 ##### The 4th Idea Hackathon 의 PanoDRS 팀에게 말씀해주십시오.
+
+  Release 18.05.13, 
+  PanoDRS version 1.0.0
